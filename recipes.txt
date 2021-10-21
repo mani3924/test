@@ -3,7 +3,8 @@ kheer
 pasta
 chicken fry
 
-
+beans
+pizza
 
 thank you
 final call 
